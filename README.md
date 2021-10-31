@@ -28,7 +28,7 @@ This application utilizes python 3.7 along with the below imports:
 ---
 ## Instructions:
 
-Navigate to the location of the cloned repository in your terminal.  Run the Streamlit application by using this command: 
+Navigate to the location of the cloned repository on your local machine via your command line interface.  Run the Streamlit application by using this command: 
 
 `streamlit run pychain.py` 
 
