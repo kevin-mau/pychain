@@ -1,16 +1,15 @@
 # PyChain Ledger Application
 ---
 ### Using Python and Steamlit we build a blockchain-based ledger system, complete with a user-friendly web interface.  This ledger allows users to conduct financial transactions and verify the integrity of the data in the ledger. 
-### Within the `PyChain` ledger, we create a `record` data class that will consist of the transaction's three attributes: the `sender`, the `receiver`, and the `amount`.  These three attributes are stored in the `Block` data class.  We will build input areas for the three attributes to be captured and stored through the Streamlit application.  
-### Finally, we test the `PyChain` ledger and user interface by running the Streamlit application and test the blockchain validation process by using the `PyChain` ledger.
+### Within the `PyChain` ledger we create a `record` data class that will consist of the transaction's three attributes: the `sender`, the `receiver`, and the `amount`.  These three attributes are stored in the `Block` data class.  We will build input areas for the three attributes to be captured and stored through the Streamlit application.  
+### Finally we test the `PyChain` ledger and user interface by running the Streamlit application and test the blockchain validation process by using the `PyChain` ledger.
 
 ---
 ## Installation Guide
 
-Prior to running the application, you will need to install these dependencies:
+In order to run this application, you will need to install streamlit to your environment:
 
 ```python
-  pip install pandas
   pip install streamlit
 ```
 
@@ -29,9 +28,9 @@ This application utilizes python 3.7 along with the below imports:
 ---
 ## Instructions:
 
-In the terminal, navigate to the cloned repo and run the Streamlit application by using `streamlit run pychain.py`.  Then simply enter values for sender, receiver, and amount, 
-and then click the Add Block button.  You can verify the block contents and hashes in the Streamlit drop-down menu and also validate the blockchain with the "Validate Chain" 
-button.
+In your terminal, navigate to the cloned repository and run the Streamlit application by using this command: `streamlit run pychain.py`.  
+Then simply enter the attributes of the financial transaction for sender, receiver, and amount, and then click the Add Block button.  
+You can verify the block contents and hashes in the Streamlit drop-down menu and also validate the blockchain with the "Validate Chain" button.
 
 ---
 ## PyChain Ledger - Streamlit Application Demonstration:
