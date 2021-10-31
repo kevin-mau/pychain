@@ -7,7 +7,7 @@
 ---
 ## Installation Guide
 
-In order to run this application, you will need to install streamlit to your environment:
+You will need to install streamlit to your environment to run this application:
 
 ```python
   pip install streamlit
