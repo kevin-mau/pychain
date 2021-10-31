@@ -28,15 +28,15 @@ This application utilizes python 3.7 along with the below imports:
 ---
 ## Instructions:
 
-In your terminal navigate to the location of the cloned repository and run the Streamlit application by using this command: 
+Navigate to the location of the cloned repository in your terminal.  Run the Streamlit application by using this command: 
 
 `streamlit run pychain.py` 
 
-Then simply enter the attributes of the financial transaction for sender, receiver, and amount.  
+Enter the attributes of the financial transaction for sender, receiver, and amount.  
 
-There is a PyChain Block Difficulty slider bar at the top-left corner of the web interface.  
+There is also a PyChain Block Difficulty slider bar at the top-left corner of the web interface.  
 
-Click the "Add Block" button when all inputs have been entered.  
+Click the "Add Block" button after all inputs have been entered.  
 
 You can verify the block contents and hashes in the Streamlit drop-down menu.
 
