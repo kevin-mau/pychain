@@ -34,13 +34,13 @@ and then click the Add Block button.  You can verify the block contents and hash
 button.
 
 ---
-### PyChain Ledger - Streamlit Application Demonstration:
+## PyChain Ledger - Streamlit Application Demonstration:
 ![pychain-·-Streamlit-Google-Chrome-2021-10-30-17-54-23](https://user-images.githubusercontent.com/85687829/139569013-6d2cb0ea-4512-40ee-b325-9055eb2fdfb1.gif)
 
-### Screenshot of "Block Difficulty" slide bar and "Block Inspector" pull-down menu:
+## Screenshot of "Block Difficulty" Slider and "Block Inspector" Drop-Down Menu:
 ![screen_block_inspector](https://user-images.githubusercontent.com/85687829/139568884-4f0fde42-119d-44a5-b2c0-790ddcf0dd38.png)
 
-### Screenshot showing that "Blockchain is Valid" message upon using the "Validate Chain" button:
+## Screenshot Showing the "Blockchain is Valid" Message Upon Using the "Validate Chain" Button:
 ![blockchain_is_valid](https://user-images.githubusercontent.com/85687829/139568929-d2e61505-252c-4664-95ad-522d08f25e1b.png)
 
 ---
