@@ -1,7 +1,7 @@
-# *PyChain Ledger
+# PyChain Ledger
 ---
 ### Using Python and Steamlit we build a blockchain-based ledger system, complete with a user-friendly web interface.  This ledger allows users to conduct financial transactions and verify the integrity of the data in the ledger. 
-### Within the `PyChain` Ledger, we will create a `record` data class that will consist of the transaction's three attributes: the `sender`, the `receiver`, and the `amount`.  These three attributes are stored in the `Block` data class.  We will build input areas for the three attributes to be captured and stored through the Streamlit application.  Finally, we test the `PyChain` Ledger and user interface by running the Streamlit application and test the blockchain validation process by using the `PyChain` ledger.
+### Within the `PyChain` Ledger, we create a `record` data class that will consist of the transaction's three attributes: the `sender`, the `receiver`, and the `amount`.  These three attributes are stored in the `Block` data class.  We will build input areas for the three attributes to be captured and stored through the Streamlit application.  Finally, we test the `PyChain` Ledger and user interface by running the Streamlit application and test the blockchain validation process by using the `PyChain` ledger.
 
 ---
 ## Installation Guide
