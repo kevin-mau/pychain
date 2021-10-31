@@ -28,7 +28,7 @@ This application utilizes python 3.7 along with the below imports:
 ---
 ## Instructions:
 
-In your terminal, navigate to the cloned repository and run the Streamlit application by using this command: `streamlit run pychain.py`.  
+In your terminal, navigate to the location of the cloned repository and run the Streamlit application by using this command: `streamlit run pychain.py`.  
 Then simply enter the attributes of the financial transaction for sender, receiver, and amount, and then click the Add Block button.  
 You can verify the block contents and hashes in the Streamlit drop-down menu and also validate the blockchain with the "Validate Chain" button.
 
